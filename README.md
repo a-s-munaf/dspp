@@ -8,7 +8,7 @@ PhD computer science
 
 # Image
 
-![Histogram](/images/histogram-example-2.png)
+
 
 
 
